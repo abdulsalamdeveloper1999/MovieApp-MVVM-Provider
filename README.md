@@ -1,16 +1,29 @@
-# rest_apis_mvvm_movie_app
+# Flutter MVVM Movie App
 
-A new Flutter project.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+This GitHub repository is dedicated to showcasing a Flutter app that follows the MVVM (Model-View-ViewModel) architecture. The app focuses on displaying movie information, including movie posters, titles, languages, release dates, and overviews. It serves as a demonstration of my skills in building user-friendly mobile applications with efficient data management and presentation using the MVVM design pattern.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Projects
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Coffee Shop UI
+![coffe ![movie app](https://github.com/abdulsalamdeveloper1999/MovieApp-MVVM-Provider/assets/114761249/f231de6e-30da-413d-a095-41e168d8c193)
+![single phone mockup](https://github.com/abdulsalamdeveloper1999/MovieApp-MVVM-Provider/assets/114761249/1cfb5b6a-2747-4b99-905d-4f6f6868d1d1)
+
+
+
+- **Description:** This Flutter application is built with the MVVM (Model-View-ViewModel) architecture and utilizes REST APIs to display movie posters, titles, languages, release dates, and overviews. It also incorporates the Provider state management for efficient data handling and presentation.
+
+
+## Contact
+
+If you have any questions or would like to get in touch with me, feel free to reach out:
+
+- Email: [abdulsalamdeveloper1999@gmail.com](mailto:abdulsalamdeveloper1999@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdul-salam-432b4a24b)
+- GitHub: [GitHub](https://github.com/abdulsalamdeveloper1999)
+
+
+I hope you enjoy exploring my Flutter UI portfolio, and it provides you with a comprehensive view of my UI design and Flutter development skills. Thank you for checking it out!
