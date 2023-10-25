@@ -17,7 +17,7 @@ Here are a couple of screenshots from the app:
 
 
 
-- **Description:** This Flutter application is built with the MVVM (Model-View-ViewModel) architecture and utilizes REST APIs to display movie posters, titles, languages, release dates, and overviews. It also incorporates the Provider state management for efficient data handling and presentation.
+- **Description:** This Flutter application is built with the MVVM (Model-View-ViewModel) architecture and utilizes REST APIs to display movie posters, titles, languages, release dates, and overviews. It also incorporates the Provider state management for efficient data handling and presentation. Additionally, the app features user authentication, including sign-up and sign-in functionality, with authentication persistence using shared preferences.
 
 
 ## Contact
