@@ -5,8 +5,12 @@
 
 This GitHub repository is dedicated to showcasing a Flutter app that follows the MVVM (Model-View-ViewModel) architecture. The app focuses on displaying movie information, including movie posters, titles, languages, release dates, and overviews. It serves as a demonstration of my skills in building user-friendly mobile applications with efficient data management and presentation using the MVVM design pattern.
 
-### Screenshots 1
-![coffe ![movie app](https://github.com/abdulsalamdeveloper1999/MovieApp-MVVM-Provider/assets/114761249/f231de6e-30da-413d-a095-41e168d8c193)
+## Screenshots
+
+Here are a couple of screenshots from the app:
+
+## Screenshots 1
+![movie app](https://github.com/abdulsalamdeveloper1999/MovieApp-MVVM-Provider/assets/114761249/f231de6e-30da-413d-a095-41e168d8c193)
 
 ### Screenshots 2
 ![single phone mockup](https://github.com/abdulsalamdeveloper1999/MovieApp-MVVM-Provider/assets/114761249/1cfb5b6a-2747-4b99-905d-4f6f6868d1d1)
